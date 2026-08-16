@@ -1,0 +1,25 @@
+.container {
+    border: 2px, cyan, solid;
+    border-radius: 10px;
+    width: 700px;
+}
+
+.cardcontainer {
+    text-align: center;
+    font-size: 20px;
+    margin: 30px;
+    font-weight: 100;
+    border-radius: 8px;
+}
+
+.firstcolor {
+    background: orange;
+}
+
+.secondcolor {
+    background: teal;
+}
+
+.thirdcolor {
+    background: yellow;
+}

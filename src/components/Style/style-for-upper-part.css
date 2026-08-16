@@ -1,0 +1,11 @@
+body {
+    background: rgb(1, 1, 65);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    color: white;
+    text-align: center;
+}
